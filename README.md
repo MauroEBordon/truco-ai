@@ -1,4 +1,4 @@
-## Truco-AI Roadmap
+## SecretGame-AI Roadmap
 
 * ### Fase 1 (Kickstart):
   * Develop an FastAPI backend.
