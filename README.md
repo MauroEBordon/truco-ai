@@ -1,4 +1,4 @@
-## Secre-AI Roadmap
+## Secret-AI Roadmap
 
 * ### Phase 0 (Planning):
   * Make a DFD of the game-flow (diagram model of the game)
