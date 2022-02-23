@@ -1,26 +1,26 @@
-## SecretGame-AI Roadmap
+## Secre-AI Roadmap
 
-* ### Fase 0 (Planning):
+* ### Phase 0 (Planning):
   * Make a DFD of the game-flow (diagram model of the game)
   * Propose Class Diagram
   * Define overall architecture of the proyect
-* ### Fase 1 (Kickstart):
+* ### Phase 1 (Kickstart):1
   * Develop an FastAPI backend.
   * Develop a JSlike frontend.
   * Host the  playing enviroment
-* ### Fase 2 (Human vs Human games):
+* ### Phase 2 (Human vs Human games):
   * Obtain data throut games played in host.
   * Fix and Mantain the enviroment until its stable "enough"
   * Start thinking about modeling and validation of the problem.
-* ### Fase 3 (Back to developing):
+* ### Phase 3 (Back to developing):
   * Extend back&front-end to create an enviroment for configuring/testing the AI
   * Investigate strategies and start to work on the pipeline
-* ### Fase 4 (Ensambling):
+* ### Phase 4 (Ensambling):
   * Develop each part of the pipe
-* ### Fase 5? (Human vs AI):
+* ### Phase 5? (Human vs AI):
   * Deploy model
   * Write Article with nice vizualizations
-* ### Extra Fase 1 (Rogue):
+* ### Extra Phase A (Rogue):
   * Make a automated self-learning model.  
-* ### Extra Fase 2 (AI vs AI):
+* ### Extra Phase B (AI vs AI):
   * learn from playing itself.    
