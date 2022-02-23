@@ -13,8 +13,10 @@
   * Investigate strategies and start to work on the pipeline
 * ### Fase 4:
   * Develop each part of the pipe
-* ### Fase 5?:
+* ### Fase 5? (Human vs AI):
   * Deploy model
   * Write Article with nice vizualizations
-* ### Extra Fase:
-  * Make a self-learning model and let it be rogue.   
+* ### Extra Fase 1:
+  * Make a self-learning model and let it be rogue.  
+* ### Extra Fase 2 (AI vs AI):
+  * learn from playing itself.    
