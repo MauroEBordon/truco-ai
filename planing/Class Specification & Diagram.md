@@ -1,6 +1,6 @@
 # Class specification & Diagrams
 
-To get started i listed some candidates for posible classes, and then selected the keywords that had really different functionality and isnt just a cluster of data.
+To get started i listed some candidates for posible classes selecting some `keywords` that described distinct functionality that isnt just a cluster of data.
 
 * ## `Room` (Sala)   
     A posible `Game` (with at least 1 human `Player`), its url works both as an ID & the gateway for other human `Players` to enter the  `Game`.
@@ -37,12 +37,19 @@ To get started i listed some candidates for posible classes, and then selected t
 * ## `SchemeCicle` (Team Desitions) (Ciclo de Respuesta a Cantos)   
     When a Scheme is excecuted, the game enters in a new internal state, the `SchemeCicle`, in which the tams vote* to answer Yes or No to the given scheme.
     In case of a tie, the vote of player with fewer priority is answered.  
-
-* ## `Player` (Jugador)  
-    We need to track IP, and not much more i guess.
-
-As you can see, this Class system has some relation inside, so lets try to diagram this with a classic UML Class Diagram.
-
+  
+* ## `Player` (Jugador)    
+    We need to track IP, and not much more i guess.  
+  
+Now we can discard some keywords as classes such as `Desition` (Enum), GameState (DB), SchemeCicle (just behavior). ***In the end they will also be "classes" but for a different reason***  
+We also left out Deck, Card, Score and such & such --> they are just data.
+  
+## That leaves us **Player, Room, Game, Round & Turn (GS+Desition)** (for now).  
+  
+As you can see, this Class system has some relation inside, so lets try to diagram this with a classic [UML Class Diagram](https://i.imgur.com/iQLZPSP.png).  
+  
+[Link]()  
+  
 ![Class Diagrams]()
 
 I'm tempted to translate `Truco` as `Trick&Scheme`. 
