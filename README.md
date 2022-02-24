@@ -1,9 +1,8 @@
 ## Secret-AI Roadmap
 
-* ### Phase 0 (Planning):
-  * Make a DFD of the game-flow (diagram model of the game)
+* ### ~~Phase 0~~ (Planning):
+  * Write specification ✔️
   * Propose Class Diagram
-  * Define overall architecture of the proyect
 * ### Phase 1 (Kickstart):1
   * Develop an FastAPI backend.
   * Develop a JSlike frontend.
