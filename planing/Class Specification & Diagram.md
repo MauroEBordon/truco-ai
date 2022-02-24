@@ -48,8 +48,7 @@ We also left out Deck, Card, Score and such & such --> they are just data.
   
 As you can see, this Class system has some relation inside, so lets try to diagram this with a classic [UML Class Diagram](https://i.imgur.com/iQLZPSP.png).  
   
-[Link]()  
-  
-![Class Diagrams]()
+[Link](https://drive.google.com/file/d/1Tl2Y7rhMapp6Za3xar1B2Upw1Ka0kRLb/view?usp=sharing)  
+![Rushed First Class Diagram](https://i.imgur.com/KQYgRAO.png)
 
 I'm tempted to translate `Truco` as `Trick&Scheme`. 
