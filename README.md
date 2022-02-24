@@ -1,8 +1,8 @@
 ## Secret-AI Roadmap
 
 * ### ~~Phase 0~~ (Planning):
-  * Write specification ✔️
-  * Propose Class Diagram
+  * Write Overall specification (Basic Idea, Basic Architecture, Basic Data Flow) ✔️
+  * Propose Class system with diagrams ✔️ 
 * ### Phase 1 (Kickstart):1
   * Develop an FastAPI backend.
   * Develop a JSlike frontend.
